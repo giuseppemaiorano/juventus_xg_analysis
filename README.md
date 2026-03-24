@@ -33,3 +33,6 @@ Il progetto include visualizzazioni come:
 - differenziale xG nei due periodi
 
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/a64dcb1f-fd0b-41fa-9854-169548d8b06d" />
+
+<img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/e2687d21-ee33-474f-b28d-0e8e4836a7fb" />
+

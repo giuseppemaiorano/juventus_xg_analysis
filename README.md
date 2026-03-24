@@ -31,3 +31,5 @@ Il progetto include visualizzazioni come:
 - confronto tra xG creati e concessi
 - media xG prima e dopo Spalletti
 - differenziale xG nei due periodi
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/a64dcb1f-fd0b-41fa-9854-169548d8b06d" />

@@ -1,4 +1,39 @@
 # juventus_xg_analysis
+
+Analysis of Juventus’ expected goals before and after Spalletti’s arrival, with Python visualizations and a sports analytics approach.
+
+## Project objective
+
+The goal of this project is to compare Juventus’ offensive and defensive performance using advanced metrics such as:
+
+- xG (expected goals)
+- xGA (expected goals against)
+- xG Difference
+
+The analysis compares the period before and after Spalletti’s arrival in order to highlight any changes in the team’s performance.
+
+## Technologies used
+
+- Python
+- pandas
+- matplotlib
+- numpy
+- soccerdata / Understat
+
+## Dataset and data source
+
+The data used comes from Understat and was retrieved through the `soccerdata` library.
+
+## Charts created
+
+The project includes visualizations such as:
+
+- match-by-match xG trend
+- comparison between xG created and conceded
+- average xG before and after Spalletti
+- xG differential across the two periods
+
+# juventus_xg_analysis
 Analisi degli expected goals della Juventus prima e dopo l'arrivo di Spalletti, con visualizzazioni in Python e approccio sport analytics.
 
 ## Obiettivo del progetto
